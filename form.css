@@ -1,0 +1,52 @@
+h1
+{  
+    color: white;
+    text-align: center; 
+    /* background-image: linear-gradient(to right ,burlyWood,bisque,antiquewhite,beige);   */
+    color: beige;
+}
+
+.xyz
+{
+    /* background-image: url('comp.jpg'); */
+    background-color: #4a0303f3;
+    height: 200px;
+    width: 1480px;
+    line-height: 200px;
+    background-attachment: fixed;
+}
+
+.pqr
+{
+    color: black;
+    background-color: rgb(169, 137, 137);
+    width: 500px;
+    height: 300px;
+    overflow: scroll;
+    /* animation-name: anme;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-delay: -2s; */
+}
+
+/* @keyframes anme {
+   
+      
+} */
+
+th,td
+{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+table
+{
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 5px black;
+}
